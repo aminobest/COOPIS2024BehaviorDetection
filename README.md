@@ -8,8 +8,9 @@ This directory contains the data collection and analysis material for the CoopIS
 
 - Folder [analysis](analysis): contains the Python notebooks for the inductive behavioral analysis and the machine learning (ML) training and validation
 
-  - [Inductive Segmentation.ipynb](analysis/Inductive Segmentation.ipynb): Contains the procedure for the inductive behavioral analysis
-  - [ML Training and Validation.ipynb](analysis/ML Training and Validation.ipynb): Contains the procedure for ML training and validation
+  - [Inductive Segmentation.ipynb](analysis/Inductive%20Segmentation.ipynb): Contains the procedure for the inductive behavioral analysis
+  - [ML Training and Validation.ipynb](analysis/ML%20Training%20and%20Validation.ipynb): Contains the procedure for ML training and validation
+
 
   - Before running the code make sure the following libraries are installed
 
